@@ -1,0 +1,37 @@
+body{
+font-family: 'Varela Round', sans-serif;
+background:teal;
+
+}
+.rosterImage{
+    width:150px;
+
+}
+.roster{
+    display:flex;
+    justify-content:center;
+}
+.character{
+    border:solid 2px grey;
+    border-radius:5px;
+    padding:20px;
+    text-align:center;
+    margin:10px;
+}
+h1{
+    margin-top:150px;
+    text-align:center;
+    margin-bottom:150px;
+}
+#merryImage{
+    width:55px;
+}
+
+ul{
+    display:flex;
+    justify-content:center;
+}
+li{
+    margin:5px;
+    list-style: none;
+}
