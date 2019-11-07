@@ -1,0 +1,13 @@
+body{
+font-family: 'Varela Round', sans-serif;
+background:#B76EB8;
+
+}
+ul{
+    display:flex;
+    justify-content:center;
+}
+li{
+    margin:5px;
+    list-style: none;
+}

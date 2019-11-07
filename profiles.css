@@ -1,0 +1,25 @@
+body{
+font-family: 'Varela Round', sans-serif;
+background:#7ABA7A;
+
+}
+.characterSection{
+    display:flex;
+    justify-content:center;
+    width:85%;
+}
+.characterImage{
+    width: 250px;
+}
+ul{
+    display:flex;
+    justify-content:center;
+}
+li{
+    margin:5px;
+    list-style: none;
+}
+.profileName{
+    text-align:center;
+    margin-right:10px;
+}

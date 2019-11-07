@@ -1,6 +1,6 @@
 body{
 font-family: 'Varela Round', sans-serif;
-background:teal;
+background:#028482;
 
 }
 .rosterImage{
@@ -18,7 +18,7 @@ background:teal;
     text-align:center;
     margin:10px;
 }
-h1{
+.homeHeader{
     margin-top:150px;
     text-align:center;
     margin-bottom:150px;
