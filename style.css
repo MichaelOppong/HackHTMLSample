@@ -23,9 +23,6 @@ background:#028482;
     text-align:center;
     margin-bottom:150px;
 }
-#merryImage{
-    width:55px;
-}
 
 ul{
     display:flex;
@@ -34,4 +31,7 @@ ul{
 li{
     margin:5px;
     list-style: none;
+}
+#estelleImage{
+    width:55px;
 }
