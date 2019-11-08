@@ -1,16 +1,17 @@
 body{
-font-family: 'Varela Round', sans-serif;
-background:#028482;
-
+    font-family: 'Varela Round', sans-serif;
+    background:#028482;
 }
+
 .rosterImage{
     width:150px;
-
 }
+
 .roster{
     display:flex;
     justify-content:center;
 }
+
 .character{
     border:solid 2px grey;
     border-radius:5px;
@@ -18,7 +19,8 @@ background:#028482;
     text-align:center;
     margin:10px;
 }
-.homeHeader{
+
+.header{
     margin-top:150px;
     text-align:center;
     margin-bottom:150px;
@@ -28,10 +30,8 @@ ul{
     display:flex;
     justify-content:center;
 }
+
 li{
     margin:5px;
     list-style: none;
-}
-#estelleImage{
-    width:55px;
 }
