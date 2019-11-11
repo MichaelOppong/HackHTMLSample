@@ -1,4 +1,4 @@
-/*let characterAboutMe=document.querySelector(".characterAboutMe");
+let characterAboutMe=document.querySelector(".characterAboutMe");
 let characterImage=document.querySelector(".characterImage");
 characterImage.onmouseover = mouseOver;
 characterAboutMe.onmouseout = mouseOut;
