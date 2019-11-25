@@ -17,10 +17,6 @@ background:#7ABA7A;
 ul{
     display:flex;
     justify-content:center;
-}
-
-li{
-    margin:5px;
     list-style: none;
 }
 
@@ -34,4 +30,7 @@ li{
 }
 .quoteSection{
     margin:20px;
+}
+li{
+    margin-left: 10px;
 }
